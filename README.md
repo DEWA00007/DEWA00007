@@ -166,6 +166,139 @@ A web development project focused on website structure, design, and user experie
 
 ---
 
+# ⚡ What I Like Building
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<h2>🐍</h2>
+
+<h3>Python</h3>
+
+Building useful programs, APIs and practical projects.
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🌐</h2>
+
+<h3>Web</h3>
+
+Creating clean and interactive websites.
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🎨</h2>
+
+<h3>UI / UX</h3>
+
+Designing interfaces that look good and feel simple.
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>💡</h2>
+
+<h3>Ideas</h3>
+
+Turning creative ideas into real projects.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h3>🚀 My Current Focus</h3>
+
+<table>
+<tr>
+
+<td align="center">
+
+🧠 **Learning**
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+💻 **Building**
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+✨ **Improving**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🎨 **Designing**
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+🔌 **Experimenting**
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+🚀 **Creating**
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<strong>I don't just want to learn technology — I want to build with it. 🚀</strong>
+
+</div>
+
+---
+
 ## 🧠 My Development Philosophy
 
 <div align="center">
@@ -189,24 +322,6 @@ I believe programming is best learned by actually building things.
 Every bug teaches something.  
 Every project adds experience.  
 Every mistake is part of the process.
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEWA00007&theme=github-dark-blue&hide_border=true" alt="Dewashish Pokharel GitHub Streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Consistency > Perfection**
-
-</div>
 
 ---
 
