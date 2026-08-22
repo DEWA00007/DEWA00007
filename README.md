@@ -1,299 +1,372 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=DEWASHISH%20POKHAREL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Creative%20Problem%20Solver&descAlignY=61&descSize=17&color=0:0f172a,45:312e81,100:111827" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Dewashish%20Pokharel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Creative%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1000&center=true&vCenter=true&width=760&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+things+to+learn+how+they+work.;Python+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;Web+Development+%7C+APIs+%7C+UI%2FUX;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Building+projects+that+turn+ideas+into+reality;Python+%7C+Web+Development+%7C+UI%2FUX;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/DEWA00007">
-<img src="https://img.shields.io/badge/GitHub-DEWA00007-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DEWA00007-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dewashish-pokharel-a89505398">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/dewashish_pokharel">
-<img src="https://img.shields.io/badge/Instagram-Follow-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=DEWA00007&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Dewashish Pokharel**, a student and aspiring developer who enjoys turning ideas into real projects.
+Hi! I'm **Dewashish Pokharel**, a student and aspiring developer who enjoys turning ideas into real digital projects.
 
-I like exploring different areas of technology — from **programming and APIs to web development and UI/UX design**. Most of what I learn comes from actually building, experimenting, making mistakes, and figuring out how things work.
+I'm interested in **software development, web development, UI/UX design, and APIs**. I enjoy learning through practical projects, experimenting with new technologies, and improving my skills one project at a time.
 
-### Currently working with
+I work with **Python, C++, Java, JavaScript, HTML, and CSS**, while continuously exploring new tools and technologies.
 
-**Python · C++ · Java · JavaScript · HTML · CSS**
-
-and exploring:
-
-**APIs · Web Development · UI/UX**
-
-> **Learn something → build something → break something → improve it.**
+> 💡 **Learn → Build → Experiment → Improve**
 
 ---
 
-## 🧰 Skills & Technologies
+## 🧰 Tech Stack
 
 <div align="center">
 
-### 💻 Programming
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
-
-<br><br>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" alt="Programming Languages"/>
 
 <br><br>
 
-### 🔌 Development Tools
+### 🔧 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br><br>
-
-### 🎨 Design
-
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools and Technologies"/>
 
 </div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏨 Hotel Finder</h3>
+
+A Python-based project that uses the <strong>Geoapify API</strong> to search for hotels based on location.
 
 <br>
 
-<div align="center">
-
-`Python` &nbsp; `C++` &nbsp; `Java` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS`
-
-`APIs` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `UI/UX` &nbsp; `Figma`
-
-</div>
-
----
-
-# 🚀 Projects
-
-A few things I've built while learning, experimenting and exploring different technologies.
-
----
-
-## 🎬 01 — Cinemora
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=CINEMORA&fontSize=38&fontColor=ffffff&color=111827&fontAlignY=55" width="100%"/>
-
-</div>
-
-### Movie & TV Discovery Platform
-
-**Cinemora** is my latest and most ambitious web project — a modern movie and TV series discovery platform built around the idea of making it easy to discover, explore and watch content.
-
-The project combines content discovery, search, genres, detailed information, watchlists, viewing history and episode navigation into one application.
-
-### ✨ Features
-
-- 🎬 Popular and trending movies
-- 📺 TV shows, seasons and episodes
-- 🔎 Movie and TV search
-- 🎭 Browse by genre
-- ❤️ Personal watchlist
-- 🕒 Watch history and progress
-- ▶️ Movie and episode player
-- ⏭️ Next episode navigation
-- 📱 Responsive design
-
-### 🛠️ Built With
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square"/>
-
-> 🚧 **Cinemora is currently under development.**
-
-<br>
-
-<a href="https://github.com/DEWA00007/Cinemora">
-<img src="https://img.shields.io/badge/VIEW%20CINEMORA-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🏨 02 — Hotel Finder
-
-### Location-Based Hotel Discovery
-
-A Python project that uses the **Geoapify API** to search for hotels based on a given location.
-
-This project helped me learn how applications communicate with external services, retrieve API data and work with location-based information.
-
-### 🛠️ Tech
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Geoapify_API-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Geoapify%20API-FF6F00?style=flat-square" alt="Geoapify API"/>
 
 <br><br>
 
 <a href="https://github.com/DEWA00007/hotel-finder">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-238636?style=for-the-badge&logo=github&logoColor=white" alt="View Hotel Finder"/>
 </a>
 
----
+</td>
 
-## 🎴 03 — Pokémon Card
+<td width="50%" valign="top">
 
-### HTML & CSS Design Project
+<h3>🎴 Pokémon Card</h3>
 
-A creative frontend project focused on designing a Pokémon card interface using **HTML and CSS**.
+A creative web project focused on designing a Pokémon card using HTML and CSS.
 
-The project explores layout, styling, visual hierarchy and creating a more polished interface using fundamental web technologies.
+<br>
 
-### 🛠️ Tech
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 
 <br><br>
 
 <a href="https://github.com/DEWA00007/Pokemon-card">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-238636?style=for-the-badge&logo=github&logoColor=white" alt="View Pokemon Card"/>
 </a>
 
----
+</td>
 
-## 📜 04 — Timeless Truth
+</tr>
 
-### Stories, Ideas & Lessons on the Web
+<tr>
 
-A web project built around stories, themes, quotes and lessons from Hindu epics.
+<td width="50%" valign="top">
 
-The main focus was combining **web development with visual storytelling** to create something more engaging than a simple information page.
+<h3>📜 Timeless Truth</h3>
 
-### 🛠️ Tech
+A web project exploring stories, themes, quotes, and lessons from Hindu epics.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 
 <br><br>
 
 <a href="https://github.com/DEWA00007/Timeless-Truth">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-238636?style=for-the-badge&logo=github&logoColor=white" alt="View Timeless Truth"/>
 </a>
 
----
+</td>
 
-## 🛡️ 05 — Insurance
+<td width="50%" valign="top">
 
-### Web Development & UI Design
+<h3>🛡️ Insurance</h3>
 
-A web project focused on building a structured insurance website while exploring **layout, visual hierarchy and user experience**.
-
-This project gave me more practice with turning a design idea into an actual web interface.
-
-### 🛠️ Focus
-
-`Web Development` · `HTML` · `CSS` · `UI/UX`
+A web development project focused on website structure, design, and user experience.
 
 <br>
+
+<img src="https://img.shields.io/badge/Web%20Development-1572B6?style=flat-square" alt="Web Development"/>
+<img src="https://img.shields.io/badge/UI%20Design-F24E1E?style=flat-square" alt="UI Design"/>
+
+<br><br>
 
 <a href="https://github.com/DEWA00007/Insurance">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-238636?style=for-the-badge&logo=github&logoColor=white" alt="View Insurance"/>
 </a>
 
+</td>
+
+</tr>
+</table>
+
+</div>
+
 ---
+
+## 📚 Currently Learning
 
 <div align="center">
 
-## 🌱 Currently Learning
+| 🚀 Area | 🎯 Focus |
+|:---:|:---|
+| 🐍 **Python** | Programming & project development |
+| ⚡ **JavaScript** | Interactive web experiences |
+| ☕ **Java** | Programming fundamentals |
+| 💠 **C++** | Programming fundamentals |
+| 🌐 **Web Development** | Building better websites |
+| 🔌 **APIs** | Connecting applications & services |
+| 🎨 **UI/UX** | Creating better user experiences |
+
+</div>
+
+> My focus is not on knowing everything — it's on **getting better every time I build something.**
+
+---
+
+# ⚡ What I Like Building
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<h2>🐍</h2>
+
+<h3>Python</h3>
+
+Building useful programs, APIs and practical projects.
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🌐</h2>
+
+<h3>Web</h3>
+
+Creating clean and interactive websites.
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🎨</h2>
+
+<h3>UI / UX</h3>
+
+Designing interfaces that look good and feel simple.
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>💡</h2>
+
+<h3>Ideas</h3>
+
+Turning creative ideas into real projects.
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+<h3>🚀 My Current Focus</h3>
+
+<table>
+<tr>
+
+<td align="center">
+
+🧠 **Learning**
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+💻 **Building**
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+✨ **Improving**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🎨 **Designing**
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+🔌 **Experimenting**
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+🚀 **Creating**
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<strong>I don't just want to learn technology — I want to build with it. 🚀</strong>
+
+</div>
+
+---
+
+## 🧠 My Development Philosophy
+
+<div align="center">
+
+### 💡 IDEA
+### ↓
+### 🧠 LEARN
+### ↓
+### 💻 BUILD
+### ↓
+### 🐛 DEBUG
+### ↓
+### ✨ IMPROVE
+### ↓
+### 🚀 REPEAT
+
+</div>
+
+I believe programming is best learned by actually building things.
+
+Every bug teaches something.  
+Every project adds experience.  
+Every mistake is part of the process.
+
+---
+
+## 🎯 Goals
+
+- 🚀 Build more real-world projects
+- 🧠 Strengthen my programming fundamentals
+- 🌐 Improve my web development skills
+- 🎨 Become better at UI/UX
+- 🔌 Learn more about APIs and backend development
+- 📚 Keep exploring new technologies
+- 🌎 Eventually contribute to open-source projects
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/DEWA00007">
+<img src="https://img.shields.io/badge/GitHub-DEWA00007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dewashish-pokharel-a89505398">
+<img src="https://img.shields.io/badge/LinkedIn-Dewashish%20Pokharel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/dewashish_pokharel">
+<img src="https://img.shields.io/badge/Instagram-dewashish__pokharel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
 
 <br><br>
 
-**Programming Fundamentals**
+<div align="center">
 
-**Web Development**
-
-**API Integration**
-
-**UI/UX Design**
+### 💬 "Build something. Learn something. Repeat."
 
 <br>
 
-> Building projects is currently my favorite way to learn.
+<img src="https://komarev.com/ghpvc/?username=DEWA00007&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DEWA00007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&rank_icon=github" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEWA00007&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEWA00007&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280" width="70%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Activity
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEWA00007/DEWA00007/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEWA00007/DEWA00007/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/DEWA00007/DEWA00007/output/github-contribution-grid-snake.svg" width="100%">
-
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ What I'm Working Toward
 
 <br>
 
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-EXPERIMENT
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-BUILD SOMETHING BETTER
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" alt="Footer"/>
