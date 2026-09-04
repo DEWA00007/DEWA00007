@@ -1,8 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Dewashish%20Pokharel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=I%20don't%20always%20know%20what%20I'm%20doing.%20I%20just%20make%20it%20work%20%F0%9F%98%8E" alt="Typing introduction" />
-</p>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Dewashish Pokharel</h1>
+<h3 align="center">Software Developer | Full-Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=DEWA00007">
@@ -91,6 +88,9 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
+
+## 💬 Quote
+> I don't always know what I'm doing. I just make it work 😎
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
